@@ -10,3 +10,18 @@
 section {
   padding-top: 5rem;
 }
+
+.gallery
+{
+  width: 100%;
+}
+
+.gallery
+{
+  width: 100%;
+}
+
+.gallery .row > *
+{
+  padding: 0;
+}
